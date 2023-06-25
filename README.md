@@ -1,25 +1,3 @@
-<a name="readme-top"></a>
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/3588/3588658.png" alt="habit-icon-common" alt="Logo" width="70" height="70">
-  </a>
-
-  <h3 align="center">Habit Traker</h3>
-
-
-</div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -155,34 +133,3 @@ Here you have to make some configuraiton to run this project on your system
     ```
     npm start or node app.js
     ```
-
-
-image of localhost8000
-Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.42.29.jpeg
-Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.42.54.jpeg
-Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.43.27.jpeg
-<!-- CONTACT -->
-## Contact
-In Case of any issue related to project setup or anything please contact me on narendrasingh995650@gmail.com
-
-Narendra singh -https://www.linkedin.com/in/narendra-singh-727b511b1
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-
-* [Open Source License](https://choosealicense.com)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[linkedin-url]:https://www.linkedin.com/in/narendra-singh-727b511b1
-
-[habit-details-screenshot]: Habit-tracker-master\Habit-tracker-master new project\assets\images\Home.jpeg"

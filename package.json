@@ -7,7 +7,7 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Narendra singh",
+  "author": "Anu",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
